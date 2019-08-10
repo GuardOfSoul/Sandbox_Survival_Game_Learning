@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - InVentorySlot
+  - CraftingSlot
+  - InVentoryItem
+  - Terrain
+  - Platform
+  - Wall
+  - PlatformToWall
+  - Pillar
+  - WallToRoof
+  - Roof
+  - Hand
+  - Stone
+  - RockMaterial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - PersonModel
+  - Env
+  - AI
+  - BuildModel
+  - BuildModelEnd
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
